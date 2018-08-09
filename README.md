@@ -1,2 +1,5 @@
 # Nonlinear-Tax-Induced-Migration
 Research: Zhang Hewings 2018
+
+
+Abstract: The empirical literature on tax-induced migration (TIM) primarily focused on estimating the average elasticity of migration to interregional tax differentials but ignores the potential effect of the variations around this average. This paper extends the work of Moretti and Wilson (2017) and finds salient nonlinearity in the TIM of star scientists between 1977 and 2010.  The results suggest that differences in personal income tax (ATR) and research and development (R & D) tax credits between two states generate nonlinear impacts on migration; there is evidence of an important inertia range in which the differences generate little impact on migration. In contrast, the corporate income tax (CIT) has approximately linear effects and investment tax credit (ITC) has consistent effects only when the destination state initially has higher credits than the origin state.  As different taxes or tax credits have distinctive nonlinear effects on migration, decision makers are cautioned of using average elasticities of TIM in policy making.
